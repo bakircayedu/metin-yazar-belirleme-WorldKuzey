@@ -1,0 +1,11 @@
+D:\Dersler\2.Sınıf 2.Dönem\Veri Yapıları\Ödev\Odev-VeriYapıları-2\Odev-VeriYapıları-2\bin\Debug\Odev-VeriYapıları-2.exe.config
+D:\Dersler\2.Sınıf 2.Dönem\Veri Yapıları\Ödev\Odev-VeriYapıları-2\Odev-VeriYapıları-2\bin\Debug\Odev-VeriYapıları-2.exe
+D:\Dersler\2.Sınıf 2.Dönem\Veri Yapıları\Ödev\Odev-VeriYapıları-2\Odev-VeriYapıları-2\bin\Debug\Odev-VeriYapıları-2.pdb
+D:\Dersler\2.Sınıf 2.Dönem\Veri Yapıları\Ödev\Odev-VeriYapıları-2\Odev-VeriYapıları-2\obj\Debug\Odev-VeriYapıları-2.csproj.AssemblyReference.cache
+D:\Dersler\2.Sınıf 2.Dönem\Veri Yapıları\Ödev\Odev-VeriYapıları-2\Odev-VeriYapıları-2\obj\Debug\Odev-VeriYapıları-2.csproj.SuggestedBindingRedirects.cache
+D:\Dersler\2.Sınıf 2.Dönem\Veri Yapıları\Ödev\Odev-VeriYapıları-2\Odev-VeriYapıları-2\obj\Debug\Odev_VeriYapıları_2.Form1.resources
+D:\Dersler\2.Sınıf 2.Dönem\Veri Yapıları\Ödev\Odev-VeriYapıları-2\Odev-VeriYapıları-2\obj\Debug\Odev_VeriYapıları_2.Properties.Resources.resources
+D:\Dersler\2.Sınıf 2.Dönem\Veri Yapıları\Ödev\Odev-VeriYapıları-2\Odev-VeriYapıları-2\obj\Debug\Odev-VeriYapıları-2.csproj.GenerateResource.cache
+D:\Dersler\2.Sınıf 2.Dönem\Veri Yapıları\Ödev\Odev-VeriYapıları-2\Odev-VeriYapıları-2\obj\Debug\Odev-VeriYapıları-2.csproj.CoreCompileInputs.cache
+D:\Dersler\2.Sınıf 2.Dönem\Veri Yapıları\Ödev\Odev-VeriYapıları-2\Odev-VeriYapıları-2\obj\Debug\Odev-VeriYapıları-2.exe
+D:\Dersler\2.Sınıf 2.Dönem\Veri Yapıları\Ödev\Odev-VeriYapıları-2\Odev-VeriYapıları-2\obj\Debug\Odev-VeriYapıları-2.pdb
